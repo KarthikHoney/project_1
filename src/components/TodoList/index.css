@@ -1,0 +1,9 @@
+.unOrderList{
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 0.5;
+}
+.mainContainer{
+    background-image: linear-gradient(to right,red, white,);
+    height: 100vh;
+}
